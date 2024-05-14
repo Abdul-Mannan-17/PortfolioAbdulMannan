@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Houses Price Prediction Model",
+      "createdAt": "2023-02-18T04:18:19Z",
+      "url": "https://github.com/Abdul-Mannan-17/Houses_price_prediction-Model",
+      "description": "A machine learning model leveraging historical data to forecast housing prices with predictive accuracy",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "",
+          "iconifyClass": ""
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "salary classification model based on position levels",
+      "createdAt": "2023-10-15T20:41:33Z",
+      "url": "https://github.com/Abdul-Mannan-17/Machine-Learning-Models/blob/main/Decision_tree_regression.ipynb",
+      "description": "A machine learning model designed to predict salary levels based on employees' position levels using regression analysis.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+        
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Restaurant_Reviews classification model",
+      "createdAt": "2023-10-23T16:26:54Z",
+      "url": "https://github.com/Abdul-Mannan-17/Machine-Learning-Models/blob/main/Natural_language_processing.ipynb",
+      "description": "A machine learning model trained to classify restaurant reviews into positive or negative sentiments based on their textual content",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "",
+          "iconifyClass": ""
+        },
+        {
+          "name": "",
+          "iconifyClass": ""
+        }
+      ]
+    }
+    
+   
+    
+  ]
+}
