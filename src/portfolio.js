@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/19zxXqTQUHaMGHrivUlgmO7nD5Xxt5gtv/view?usp=drive_link",
-  portfolio_repository: "https://drive.google.com/file/d/19zxXqTQUHaMGHrivUlgmO7nD5Xxt5gtv/view?usp=drive_link",
+    "https://drive.google.com/file/d/1go-IYDMNIPQ3GScdRhym9Ish_9N-8B8e/view?usp=sharing",
+  portfolio_repository: "https://drive.google.com/file/d/1go-IYDMNIPQ3GScdRhym9Ish_9N-8B8e/view?usp=sharing",
   githubProfile: "https://github.com/Abdul-Mannan-17",
 };
 
