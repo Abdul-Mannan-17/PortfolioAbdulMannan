@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Abdul Mannan",
   logo_name: "Abdul Mannan",
-  nickname: "Full Stack Software Developer",
+  nickname: "Software Engineer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
