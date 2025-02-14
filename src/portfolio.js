@@ -287,19 +287,19 @@ const degrees = {
       ],
       website_link: "https://www.iub.edu.pk/",
     },
-   /* {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+    {
+      title: "FAST NUCES Islamabad",
+      subtitle: "M.S. in Software Engineering(Enroll)",
+      logo_path: "fast_logo.png",
+      alt_name: "FAST NUCES Islamabad",
+      duration: "2024 - 2026",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have taken varity of courses related to Software Engineering which correspond to Explainable Software quality and architecture, Machine Learning, Computer Vision etc.",
+        "⚡ Apart from this, I have also doing research. As part of it, I have worked on creating and improving algorithms in Software Architecture, Quality Assurance and Machine Learning.",
+        "⚡ During my time at university, I was also associated with extra co curricular activities.",
       ],
-      website_link: "https://www.indiana.edu/",
-    },*/
+      website_link: "https://www.nu.edu.pk/",
+    },
   ],
 };
 
@@ -450,21 +450,19 @@ const experience = {
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
           color: "#0879bf",
         },*/
-      /*  {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+        {
+          title: "Junior Python Developer",
+          company: "Echo Technologies (Pvt) Ltd",
+          logo_path: "echo_logo.png",
+          duration: "Aug 2024 - Oct 2024",
+          location: "Islamabad, Pakistan",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Assisting in the design, development, and maintenance of applications. Collaborating with senior developers to troubleshoot and resolve software issues. Participating in code reviews and providing constructive feedback.Contributing to the documentation of software specifications and user guides.",
           color: "#9b1578",
-        },*/
+        },
         {
           title: "Open-Source Contributor",
           company: "Girl Script Summer of Code.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "gssoc_logo.png",
           duration: "May 2024",
           location: "Online",
